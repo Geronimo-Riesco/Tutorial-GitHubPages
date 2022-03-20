@@ -1,0 +1,44 @@
+/* comentarios */
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+    border-radius: 40px;
+    padding: 20px;
+    text-align: center;
+    width: 90%;
+    opacity: .4;
+}
+
+
+/* Evento */
+
+h1:hover {
+    color: white;
+    border-radius: 5px;
+    opacity: 1;
+    transition: 3s;
+    transform: rotate(360deg);
+}
+
+h1:after {
+    transition: 3s;
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: #0000ff;
+}
+
+li {
+    color: rgb(0, 255, 0);
+}
