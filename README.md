@@ -1,4 +1,4 @@
-# Pagina-Web-Interface2022
+# Pagina-Web-InterfaceGráfica2022
 
 Link Pagina Web: https://geronimo-riesco.github.io/Pagina-Web-Interface2022/
 
