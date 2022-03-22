@@ -5,7 +5,7 @@ Link Pagina Web: https://geronimo-riesco.github.io/Pagina-Web-Interface2022/
 ------------------------------------- CONCEPTOS  -------------------------------------------
 
 GitHub Pages es un servicio de GitHub que nos permite alojar nuestros proyectos y mostrarlos
-en vivo en una página web estática sin necesidad de pagar por hosting o siquiera tener 
+en vivo en una página web sin necesidad de pagar por hosting o siquiera tener 
 conocimientos en servidores o DevOps. Es algo muy sencillo y que no te tomará más de 5 
 minutos configurar.
 
