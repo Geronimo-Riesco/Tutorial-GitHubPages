@@ -1,9 +1,0 @@
-Curso: Interface Gráfica Web 60 hs
-Días: Viernes 15:00 a 18:00 hs
-Profe: Carlos Ríos  c.rios@bue.edu.ar
-Materiales: https://aulasvirtuales.bue.edu.ar/
-Github: https://github.com/crios2020/Interfaces2022
-
-Software: Visual Studio Code
-
-
